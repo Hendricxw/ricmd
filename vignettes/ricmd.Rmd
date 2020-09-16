@@ -358,7 +358,7 @@ ri_metaAdd(object="datafile.rds",attribute="attr1",value="val2",
         overwrite=TRUE)
 ```
 
-With the ri\_getGet and ri\_metaGetAttr you can get respectively all the meta data
+With the ri\_metaGet and ri\_metaGetAttr you can get respectively all the meta data
 AVU tripples or only a single AVU tripple for a specific attribute.
 
 
